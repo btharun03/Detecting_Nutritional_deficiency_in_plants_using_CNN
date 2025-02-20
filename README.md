@@ -1,0 +1,3 @@
+This project introduces a Convolutional Neural Network (CNN) approach for automating the detection of nutritional deficiencies in plants through image analysis. Leveraging a diverse dataset of plant images exhibiting various nutrient deficiencies, our CNN model demonstrates promising results in accurately classifying and identifying specific deficiencies. The proposed system, designed for deployment in precision agriculture, offers a scalable and efficient solution for early intervention, enabling farmers to optimize nutrient management strategies. The project highlights the potential impact of this technology on sustainable agriculture and global food security.
+
+Dataset link: https://www.kaggle.com/datasets/saroz014/plant-disease
